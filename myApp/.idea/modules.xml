@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easeUI/easeUI.iml" filepath="$PROJECT_DIR$/easeUI/easeUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myApp.iml" filepath="$PROJECT_DIR$/myApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myApp/myApp-myApp.iml" filepath="$PROJECT_DIR$/myApp/myApp-myApp.iml" />
+    </modules>
+  </component>
+</project>

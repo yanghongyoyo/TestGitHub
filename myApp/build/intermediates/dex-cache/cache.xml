@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AS-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\support-v4-19.1.0_8256d2623fb1ef6f7899280f67f137be3ccf6f6b.jar" />
+    </item>
+    <item
+        jar="H:\Android\myApp\myApp\build\intermediates\exploded-aar\myApp\easeUI\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="433b3794d2bede7bde66f30314f3326df27211d9">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\org.apache.http.legacy_34686682024b02a1890213390666cd3ac9368d12.jar" />
+    </item>
+    <item
+        jar="H:\Android\myApp\myApp\build\intermediates\exploded-aar\myApp\easeUI\unspecified\jars\libs\hyphenatechat_3.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b60af90b7dc3235139242db00d44675f678a74d9">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\hyphenatechat_3.1.1_a28b8938fb453e867509261b44fd3f0fdd8ab3eb.jar" />
+    </item>
+    <item
+        jar="H:\Android\myApp\myApp\build\intermediates\exploded-aar\myApp\easeUI\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="52ac4c4e01086e8faa85cc27c002141b69446f6b">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\google-play-services_7599277981732f5e874bf91fcc5ccfb5425b4225.jar" />
+    </item>
+    <item
+        jar="H:\Android\myApp\myApp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6df72e0bed14079e7f8e816bf7fd416ddf7fb467">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\instant-run_16a01922659a7e5b2d87bd2bf89b70ef59f6c19b.jar" />
+    </item>
+    <item
+        jar="H:\Android\myApp\myApp\build\intermediates\exploded-aar\myApp\easeUI\unspecified\jars\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="87295e63e3a106c1166d973e31e129b9f5986c0a">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\BaiduLBS_Android_c2724a1f44ea2d3df1b9999c22f972e25156e79e.jar" />
+    </item>
+    <item
+        jar="H:\Android\myApp\myApp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19149cd58e4de2bc4c3836b07d08d2aad88a9bbd">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\instant-run-bootstrap_85fe8ddcfd25e5e55dd679b592fc023d1c1bae35.jar" />
+    </item>
+    <item
+        jar="H:\Android\myApp\myApp\build\intermediates\exploded-aar\myApp\easeUI\unspecified\jars\libs\glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6586feeb11ff5fc4767cfbbc5e4b470a651d8cf">
+        <dex dex="H:\Android\myApp\myApp\build\intermediates\pre-dexed\debug\glide-3.6.1_884431bd390c8190fb4d2af7be55a8b98b9bf285.jar" />
+    </item>
+
+</items>
